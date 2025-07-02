@@ -1,4 +1,5 @@
 # DSA-Q
 ## Questions 
 - GFG
-  - Second Largest 
+  - Day - 0
+    - Second Largest 
