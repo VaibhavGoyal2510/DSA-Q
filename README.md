@@ -10,3 +10,9 @@
     - Maximum Consecutive Bits
     - pushZerosToEnd
     - reverseInGroups
+  - Day - 2
+    - Rotate Array
+    - Wave Array
+    - Plus One
+    - Check if array is sorted
+    - remove duplicates in place from sorted array
