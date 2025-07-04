@@ -16,3 +16,8 @@
     - Plus One
     - Check if array is sorted
     - remove duplicates in place from sorted array
+   
+  - Day - 3
+    - Stock Buy and Sell – Max one Transaction Allowed
+    - Repeated sum of digits
+    - Alternate Positive Negative
