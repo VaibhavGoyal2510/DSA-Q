@@ -21,3 +21,7 @@
     - Stock Buy and Sell – Max one Transaction Allowed
     - Repeated sum of digits
     - Alternate Positive Negative
+
+  - Day - 4
+    - Leaders in an array
+    - Missing And Repeating 
