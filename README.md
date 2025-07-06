@@ -24,4 +24,9 @@
 
   - Day - 4
     - Leaders in an array
-    - Missing And Repeating 
+    - Missing And Repeating
+   
+  - Day - 5
+    - Program to check if strings are rotations of each other
+    - Check if two Strings are Anagrams of each other
+    - Form the Largest Number
