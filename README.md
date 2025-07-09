@@ -39,3 +39,8 @@
    
   - Day-7 (Company day GKm - 08/07/2025 - didn't cleared Interview)
     - But here is the coding q -> [Find minimum number of merge operations to make an array palindrome](https://www.geeksforgeeks.org/dsa/find-minimum-number-of-merge-operations-to-make-an-array-palindrome/)
+   
+  - Day - 8
+    - [Next Permutation](https://www.geeksforgeeks.org/dsa/next-permutation/)
+    - [Majority Element](https://www.geeksforgeeks.org/dsa/majority-element/)
+    - [Unique Number](https://www.geeksforgeeks.org/problems/find-unique-number/0)
