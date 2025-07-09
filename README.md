@@ -36,3 +36,6 @@
     - Non Repeating Character (Similarity)
     - Program for Nth node from the end of a Linked List
     - Program to check if Nums form a friendly pair.
+   
+  - Day-7 (Company day GKm - 08/07/2025 - didn't cleared Interview)
+    - But here is the coding q -> [Find minimum number of merge operations to make an array palindrome](https://www.geeksforgeeks.org/dsa/find-minimum-number-of-merge-operations-to-make-an-array-palindrome/)
