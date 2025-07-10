@@ -12,15 +12,15 @@
     - reverseInGroups
   - Day - 2
     - Rotate Array
-    - Wave Array
-    - Plus One
+    - [Wave Array](https://www.geeksforgeeks.org/problems/wave-array-1587115621/0)
+    - [Plus One](https://www.geeksforgeeks.org/problems/adding-one2529/0)
     - Check if array is sorted
-    - remove duplicates in place from sorted array
+    - [remove duplicates in place from sorted array](https://www.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1)
    
   - Day - 3
-    - Stock Buy and Sell – Max one Transaction Allowed
-    - Repeated sum of digits
-    - Alternate Positive Negative
+    - [Stock Buy and Sell – Max one Transaction Allowed](https://www.geeksforgeeks.org/problems/buy-stock-2/1)
+    - [Repeated sum of digits](https://www.geeksforgeeks.org/problems/repeated-sum-of-digits3955/1)
+    - [Alternate Positive Negative](https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1&selectedLang=python3)
 
   - Day - 4
     - Leaders in an array
