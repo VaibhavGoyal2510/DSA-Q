@@ -44,3 +44,8 @@
     - [Next Permutation](https://www.geeksforgeeks.org/dsa/next-permutation/)
     - [Majority Element](https://www.geeksforgeeks.org/dsa/majority-element/)
     - [Unique Number](https://www.geeksforgeeks.org/problems/find-unique-number/0)
+   
+  - Day - 9
+    - [Longest Subarray with Sum K](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1)
+    - [Two Sum](https://www.geeksforgeeks.org/dsa/check-if-pair-with-given-sum-exists-in-array/)
+    - [Sort an array of 0s, 1s and 2s - Dutch National Flag Problem](https://www.geeksforgeeks.org/dsa/sort-an-array-of-0s-1s-and-2s/)
