@@ -49,3 +49,9 @@
     - [Longest Subarray with Sum K](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1)
     - [Two Sum](https://www.geeksforgeeks.org/dsa/check-if-pair-with-given-sum-exists-in-array/)
     - [Sort an array of 0s, 1s and 2s - Dutch National Flag Problem](https://www.geeksforgeeks.org/dsa/sort-an-array-of-0s-1s-and-2s/)
+   
+  - Day - 10
+    - [Kadane's Algo Maximum Subarray Sum](https://www.geeksforgeeks.org/dsa/largest-sum-contiguous-subarray/)
+    - [Longest Consecutive Subsequence](https://www.geeksforgeeks.org/dsa/longest-consecutive-subsequence/)
+    - [Outermost Parentheses](https://www.geeksforgeeks.org/problems/outermost-parentheses/1)
+    - []()
