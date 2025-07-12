@@ -55,3 +55,8 @@
     - [Longest Consecutive Subsequence](https://www.geeksforgeeks.org/dsa/longest-consecutive-subsequence/)
     - [Outermost Parentheses](https://www.geeksforgeeks.org/problems/outermost-parentheses/1)
     - []()
+   
+  - Day - 11
+    - [Find the largest odd number in String](https://www.geeksforgeeks.org/dsa/find-the-largest-odd-number-in-string/)
+    - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+    - [Isomorphic String](https://www.geeksforgeeks.org/dsa/check-if-two-given-strings-are-isomorphic-to-each-other/)
