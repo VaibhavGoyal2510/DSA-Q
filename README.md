@@ -60,3 +60,9 @@
     - [Find the largest odd number in String](https://www.geeksforgeeks.org/dsa/find-the-largest-odd-number-in-string/)
     - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
     - [Isomorphic String](https://www.geeksforgeeks.org/dsa/check-if-two-given-strings-are-isomorphic-to-each-other/)
+   
+  - Day - 12
+    - [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)
+    - [Maximum Nesting Depth of the Parentheses](https://www.geeksforgeeks.org/problems/maximum-nesting-depth-of-the-parentheses/1)
+    - [Roman Number to Integer](https://www.geeksforgeeks.org/problems/roman-number-to-integer3201/1)
+    - [Sorting - Insertion, Selection, Bubble]
