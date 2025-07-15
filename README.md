@@ -66,3 +66,7 @@
     - [Maximum Nesting Depth of the Parentheses](https://www.geeksforgeeks.org/problems/maximum-nesting-depth-of-the-parentheses/1)
     - [Roman Number to Integer](https://www.geeksforgeeks.org/problems/roman-number-to-integer3201/1)
     - [Sorting - Insertion, Selection, Bubble]
+   
+  - Day - 13
+    - [Count Substring](https://www.geeksforgeeks.org/problems/count-substring/1)
+    - [Sum of Beauty of All Substrings](https://www.geeksforgeeks.org/problems/sum-of-beauty-of-all-substrings-1662962118/1)
