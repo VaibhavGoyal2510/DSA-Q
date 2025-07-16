@@ -70,3 +70,10 @@
   - Day - 13
     - [Count Substring](https://www.geeksforgeeks.org/problems/count-substring/1)
     - [Sum of Beauty of All Substrings](https://www.geeksforgeeks.org/problems/sum-of-beauty-of-all-substrings-1662962118/1)
+   
+  - Day - 14
+    - [Search insert position of K in a sorted array](https://www.geeksforgeeks.org/dsa/search-insert-position-of-k-in-a-sorted-array/)
+    - [Floor in a Sorted Array](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1)
+    - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/1699755747/)
+    - [Number of occurrence](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1)
+    - [Search in Rotated Sorted Array](https://www.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1)
