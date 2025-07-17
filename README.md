@@ -77,3 +77,9 @@
     - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/1699755747/)
     - [Number of occurrence](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1)
     - [Search in Rotated Sorted Array](https://www.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1)
+   
+  - Day - 15
+    - [Search in Rotated Array 2](https://www.geeksforgeeks.org/problems/search-in-rotated-array-2/1)
+    - [Sorted & rotated Minm](http://geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array3611/1)
+    - [Find Kth Rotation](https://www.geeksforgeeks.org/problems/rotation4723/1)
+    - [Single Among Doubles in a Sorted](https://www.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array0624/1)
