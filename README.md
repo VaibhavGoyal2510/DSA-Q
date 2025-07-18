@@ -83,3 +83,7 @@
     - [Sorted & rotated Minm](http://geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array3611/1)
     - [Find Kth Rotation](https://www.geeksforgeeks.org/problems/rotation4723/1)
     - [Single Among Doubles in a Sorted](https://www.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array0624/1)
+
+  - Day - 16
+    - [Set Matrix Zeros](https://www.geeksforgeeks.org/problems/set-matrix-zeroes/1)
+    - [48. Rotate Image - clockwise ](https://leetcode.com/problems/rotate-image/description/)
