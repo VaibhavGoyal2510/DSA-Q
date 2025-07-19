@@ -87,3 +87,7 @@
   - Day - 16
     - [Set Matrix Zeros](https://www.geeksforgeeks.org/problems/set-matrix-zeroes/1)
     - [48. Rotate Image - clockwise ](https://leetcode.com/problems/rotate-image/description/)
+
+  - Day - 17
+    - [Subarrays with sum K](https://www.geeksforgeeks.org/problems/subarrays-with-sum-k/1)
+    - [Spiral Matrix](https://www.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1)
