@@ -91,3 +91,7 @@
   - Day - 17
     - [Subarrays with sum K](https://www.geeksforgeeks.org/problems/subarrays-with-sum-k/1)
     - [Spiral Matrix](https://www.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1)
+   
+  - Day - 18
+    - [Implement Atoi](https://www.geeksforgeeks.org/problems/implement-atoi/1&selectedLang=python3)
+    - [Longest Palindromic Substring](https://www.geeksforgeeks.org/problems/longest-palindrome-in-a-string1956/1)
