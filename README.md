@@ -95,3 +95,14 @@
   - Day - 18
     - [Implement Atoi](https://www.geeksforgeeks.org/problems/implement-atoi/1&selectedLang=python3)
     - [Longest Palindromic Substring](https://www.geeksforgeeks.org/problems/longest-palindrome-in-a-string1956/1)
+   
+  - Day - 19
+    - [Square Root](https://www.geeksforgeeks.org/problems/square-root/1)
+    - [Linked List Insertion At End](https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1)
+    - [Delete in a Singly Linked List](https://www.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1)
+    - [Count Linked List Nodes](https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/1)
+    - [Search in Linked Lis](https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1)
+    - [Doubly linked list Insertion at given position](https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1)
+    - [Delete in a Doubly Linked List](https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1)
+    - [Reverse a Doubly Linked List](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1)
+    - [Middle of a Linked List](https://www.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1)
