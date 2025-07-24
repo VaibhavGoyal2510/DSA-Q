@@ -106,3 +106,10 @@
     - [Delete in a Doubly Linked List](https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1)
     - [Reverse a Doubly Linked List](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1)
     - [Middle of a Linked List](https://www.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1)
+   
+  - Day - 20
+    - [Find the first node of loop in linked list](https://www.geeksforgeeks.org/problems/find-the-first-node-of-loop-in-linked-list--170645/1)
+    - [Reverse a linked list](https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1)
+    - [Detect Loop in linked list](https://www.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
+    - [Find length of Loop](https://www.geeksforgeeks.org/problems/find-length-of-loop/1)
+    - [Palindrome Linked List](https://www.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1)
