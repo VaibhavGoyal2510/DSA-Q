@@ -113,3 +113,8 @@
     - [Detect Loop in linked list](https://www.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
     - [Find length of Loop](https://www.geeksforgeeks.org/problems/find-length-of-loop/1)
     - [Palindrome Linked List](https://www.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1)
+
+  - Day - 21
+    - [Segreagate Even-Odd Nodes](https://www.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list5035/1)
+    - [Kth from End of Linked List](https://www.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)
+    - [Delete Middle of Linked List](https://www.geeksforgeeks.org/problems/delete-middle-of-linked-list/1)
