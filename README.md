@@ -118,3 +118,10 @@
     - [Segreagate Even-Odd Nodes](https://www.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list5035/1)
     - [Kth from End of Linked List](https://www.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)
     - [Delete Middle of Linked List](https://www.geeksforgeeks.org/problems/delete-middle-of-linked-list/1)
+   
+  - Day - 22
+ 
+  - Day - 23
+    - [Sort for Singly Linked List](https://www.geeksforgeeks.org/problems/insertion-sort-for-singly-linked-list/1)
+    - [Intersection in Y Shaped Lists](https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
+    - [Sort a linked list of 0s, 1s and 2s](https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1)
