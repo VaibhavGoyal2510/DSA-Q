@@ -125,3 +125,7 @@
     - [Sort for Singly Linked List](https://www.geeksforgeeks.org/problems/insertion-sort-for-singly-linked-list/1)
     - [Intersection in Y Shaped Lists](https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
     - [Sort a linked list of 0s, 1s and 2s](https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1)
+   
+  - Day - 24 [Continued - a lot days went in submitting project then learning tech , now again hopping for 2q a day in dsa]
+    - [Sort a stack](https://www.geeksforgeeks.org/problems/sort-a-stack/1&selectedLang=python3)
+    - [Reverse a Stack](https://www.geeksforgeeks.org/problems/reverse-a-stack/1)
