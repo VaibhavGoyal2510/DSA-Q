@@ -129,3 +129,6 @@
   - Day - 24 [Continued - a lot days went in submitting project then learning tech , now again hopping for 2q a day in dsa]
     - [Sort a stack](https://www.geeksforgeeks.org/problems/sort-a-stack/1&selectedLang=python3)
     - [Reverse a Stack](https://www.geeksforgeeks.org/problems/reverse-a-stack/1)
+   
+  - Day - 25
+    - [Delete all occurrences of a given key in a doubly linked list](https://www.geeksforgeeks.org/problems/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list/1)
