@@ -141,3 +141,6 @@
     - [Preorder Traversal](https://www.geeksforgeeks.org/problems/preorder-traversal/1)
     - [Inorder Traversal](https://www.geeksforgeeks.org/problems/inorder-traversal/1)
     - [PostOrder Traversal](https://www.geeksforgeeks.org/problems/postorder-traversal/1)
+    - [Search a node in BST](https://www.geeksforgeeks.org/problems/search-a-node-in-bst/1)
+    - [Minimum element in BST](https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1)
+    - [Max and min element in Binary Tree](https://www.geeksforgeeks.org/problems/max-and-min-element-in-binary-tree/1)
