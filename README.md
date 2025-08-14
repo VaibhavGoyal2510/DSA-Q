@@ -145,3 +145,12 @@
     - [Search a node in BST](https://www.geeksforgeeks.org/problems/search-a-node-in-bst/1)
     - [Minimum element in BST](https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1)
     - [Max and min element in Binary Tree](https://www.geeksforgeeks.org/problems/max-and-min-element-in-binary-tree/1)
+   
+  - Day - 28
+    - [Interview Question -> Reverse a string & maintain the space where they are , also append number of words at the end of string]
+    - [Check K-th Bit](https://www.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1)
+    - [Odd or Even](https://www.geeksforgeeks.org/problems/odd-or-even3618/1)
+    - [Power of 2](https://www.geeksforgeeks.org/problems/power-of-2-1587115620/1)
+    - [Number of 1 Bits](https://www.geeksforgeeks.org/problems/set-bits0143/1)
+    - [Set the rightmost unset bit](https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1)
+    - [Swap two numbers](https://www.geeksforgeeks.org/problems/swap-two-numbers3844/1)
