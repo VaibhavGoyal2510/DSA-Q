@@ -136,6 +136,7 @@
   - Day - 26
     - [Find pairs with given sum in doubly linked list](https://www.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1)
     - [Remove duplicates from a sorted doubly linked list](https://www.geeksforgeeks.org/problems/remove-duplicates-from-a-sorted-doubly-linked-list/1)
+    - [Remove duplicates from a sorted doubly linked list](https://www.geeksforgeeks.org/problems/remove-duplicates-from-a-sorted-doubly-linked-list/1)
    
   - Day - 27
     - [Preorder Traversal](https://www.geeksforgeeks.org/problems/preorder-traversal/1)
